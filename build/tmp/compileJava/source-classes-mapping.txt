@@ -1,0 +1,30 @@
+example/exampleQueue/ExampleQueue.java
+ example.exampleQueue.ExampleQueue
+Exercecies/PrintExercice.java
+ Exercecies.PrintExercice
+example/exampleHashSet/ExampleTreeSet.java
+ example.exampleHashSet.ExampleTreeSet
+example/exampleHashSet/ExampleLinkedHash.java
+ example.exampleHashSet.ExampleLinkedHash
+example/exampleHashSet/ExampleHashSet.java
+ example.exampleHashSet.ExampleHashSet
+example/comparators/Estudante.java
+ example.comparators.Estudante
+example/comparators/EstudanteComparableReverseOrder.java
+ example.comparators.EstudanteComparableReverseOrder
+example/exampleUtilMap/ExampleUtilMap.java
+ example.exampleUtilMap.ExampleUtilMap
+example/exampleUtilMap/ExampleTreeMap.java
+ example.exampleUtilMap.ExampleTreeMap
+example/exampleArrayList/ExampleArrayList.java
+ example.exampleArrayList.ExampleArrayList
+example/comparators/ExampleComparator.java
+ example.comparators.ExampleComparator
+example/exampleOptionals/ExampleOptionals.java
+ example.exampleOptionals.ExampleOptionals
+example/exampleOptionals/ExampleOptionsPrimitive.java
+ example.exampleOptionals.ExampleOptionsPrimitive
+example/exampleOptionals/ExampleOptional.java
+ example.exampleOptionals.ExampleOptional
+example/exampleStream/ExampleStream.java
+ example.exampleStream.ExampleStream
